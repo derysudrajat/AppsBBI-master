@@ -1,5 +1,2 @@
 # AppsBBI
-aplikasi android belajar bahasa inggris
-
-## Web API provider
-[https://github.com/ifirmawan/api-android-bbi](https://github.com/ifirmawan/api-android-bbi)
+BBI ( Belajar Bahasa Inggris) apps to made user much understand about english learning, purpose to junior high school student 
